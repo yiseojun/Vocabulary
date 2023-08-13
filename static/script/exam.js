@@ -67,7 +67,7 @@ async function isCorrectWord() {
         }
     } else {
         cssAnimation.startShakeAnimation();
-        cssAnimation.changeBorderColor("#F86C6E", 1000);
+        cssAnimation.changeBorderColor("#E01A4F", 1000);
     }
 }
 
