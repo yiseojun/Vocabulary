@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,34 +10,21 @@
         a:visited { color: #28886D; text-decoration: none; }
         a:hover { text-decoration: none; }
     </style>
+    <script>
+        // 아래는 Debug용
+        const pathData = "{{ path }}";
+        // const pathData = "/static/data/voca_list/2023년도 3월 모의고사/18번.txt";
+    </script>
 </head>
 <body>
     <div id="container" style="margin-top: 10%; text-align: center;">
-        <h2>...(*￣０￣)ノ</h1>
-        <p style="opacity: 0.5;"><b>준비중입니다.</b></p>
-    </div>
-    <footer><p style="font-size: 16px;"><a href="/"><b>돌아가기</b></a></footer>
+        <div id="a-container">
+            <b><p id="word" style="font-size: 50px;" class="fade-in">불러오는 중...</p></b>
+        </div>
+            <input type="text" id="input-word" autocomplete="off" placeholder="단어 입력" autofocus=""><br>
+            <button style="font-weight: 500;" onclick="help()">I have no idea.</button>
+        </div>
+    <footer><p style="font-size: 16px;"><a href="{{ adress }}"><b>돌아가기</b></a></footer>
+    <script src="/static/script/exam.js"></script>
 </body>
-=======
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>단어시험</title>
-    <link rel="stylesheet" href="/static/css/style.css">
-    <style>
-        a:link { color: #28886D; text-decoration: none;}
-        a:visited { color: #28886D; text-decoration: none; }
-        a:hover { text-decoration: none; }
-    </style>
-</head>
-<body>
-    <div id="container" style="margin-top: 10%; text-align: center;">
-        <h2>...(*￣０￣)ノ</h1>
-        <p style="opacity: 0.5;"><b>준비중입니다.</b></p>
-    </div>
-    <footer><p style="font-size: 16px;"><a href="/"><b>돌아가기</b></a></footer>
-</body>
->>>>>>> Stashed changes
 </html>
