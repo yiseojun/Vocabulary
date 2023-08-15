@@ -1,0 +1,5 @@
+{
+    "sector":"부문",
+    "extraction":"추출",
+    "derive":"파생하다"
+}

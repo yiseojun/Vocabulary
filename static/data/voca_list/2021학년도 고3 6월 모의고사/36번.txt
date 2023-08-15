@@ -1,0 +1,5 @@
+{
+    "adversity":"역경",
+    "derive A from B":"A를 B에서 얻다",
+    "moderate":"적당한"
+}

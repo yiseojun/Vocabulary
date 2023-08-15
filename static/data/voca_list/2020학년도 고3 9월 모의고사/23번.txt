@@ -1,0 +1,5 @@
+{
+    "inevitably":"어쩔 수 없이",
+    "merge with":"~와 하나가 된다",
+    "self-perception":"자기 인식"
+}

@@ -1,0 +1,5 @@
+{
+    "glorify:"미화하다",
+    "put across":"~을 이해시키다",
+    "cut down on":"~을 줄이다"
+}

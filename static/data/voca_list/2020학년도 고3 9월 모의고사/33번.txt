@@ -1,0 +1,4 @@
+{
+    "intoxicating":"취하게 하는",
+    "an array of":"많은"
+}

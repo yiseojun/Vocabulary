@@ -1,0 +1,5 @@
+{
+    "voyage":"항해",
+    "commission":"의뢰하다",
+    "equator":"적도"
+}

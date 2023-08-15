@@ -1,0 +1,5 @@
+{
+    "overwhelm":"압도하다",
+    "intercept":"가로채다",
+    "glance":"훑어보다"
+}

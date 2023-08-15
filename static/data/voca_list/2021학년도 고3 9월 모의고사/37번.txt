@@ -1,0 +1,5 @@
+{
+    "monetary":"금전적인",
+    "evaluation":"평가",
+    "elevate":"격상시키다"
+}

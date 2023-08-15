@@ -1,0 +1,5 @@
+{
+    "contradictiory":"모순된",
+    "premise":"전제",
+    "cumulative":"축적된"
+}

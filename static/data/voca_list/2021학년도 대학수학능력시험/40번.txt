@@ -1,0 +1,6 @@
+{
+    "conceivably":"아마도",
+    "fixation":"고정관념",
+    "coercion":"강제",
+    "personhood":"개념"
+}

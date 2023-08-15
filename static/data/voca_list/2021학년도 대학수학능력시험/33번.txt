@@ -1,0 +1,5 @@
+{
+    "have access to":"~에 접근할 수 있다",
+    "impulse":"자극",
+    "prune":"잘라내다"
+}

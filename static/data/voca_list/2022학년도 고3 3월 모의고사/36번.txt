@@ -1,0 +1,5 @@
+{
+    "in one’s tracks":"즉시",
+    "mirror":"잘 보여주다",
+    "rush":"쇄도"
+}

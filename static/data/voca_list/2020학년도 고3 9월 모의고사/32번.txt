@@ -1,0 +1,5 @@
+{
+    "exhale":"숨을 내쉬다",
+    "sentiment":"감정",
+    "fall away":"서서히 사라지다"
+}

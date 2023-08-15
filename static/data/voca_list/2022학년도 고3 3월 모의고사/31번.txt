@@ -1,0 +1,5 @@
+{
+    "benevolence":"자비심",
+    "ritual":"의례적인",
+    "impulse":"충동"
+}

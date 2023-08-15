@@ -1,0 +1,5 @@
+{
+    "conventional wisdom":"일반 통념",
+    "be identified with":"~와 동일시되다",
+    "illusion":"환상"
+}

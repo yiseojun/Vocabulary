@@ -1,0 +1,4 @@
+{
+    "concentrate":"집중하다",
+    "residental":"주거의"
+}

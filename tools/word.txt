@@ -1,0 +1,100 @@
+20번
+{
+    "configuration":"배열",
+    "company":"동반"
+}
+21번
+{
+    "out of the loop":"상황을 잘 모르는",
+    "hyperconnected":"과잉연결된",
+    "periodically":"주기적으로",
+    "flick":"(스위치를)누르다"
+}
+22번
+{
+    "grant":"주다",
+    "in proportion to":"~에 비례하여",
+    "irreversibly":"뒤집을 수 없게"
+}
+23번
+{
+    "induce":"유도하다",
+    "insofar as":"~하는 한",
+    "indefinable:"규정할 수 없는"
+}
+24번
+{
+    "utility":"공익사업",
+    "responsive to":"~에 반응하여"
+}
+29번
+{
+    "pay off":"성공하다",
+    "correspond to":"~와 일치하다",
+    "mechanism":"기제, 매커니즘"
+}
+30번
+{
+    "sector":"부문",
+    "extraction":"추출",
+    "derive":"파생하다"
+}
+31번
+{
+    "describe":"서술하다, ~이라고 말하다",
+    "inference":"추론",
+    "recognize":"인식하다"
+}
+32번
+{
+    "supposedly":"아마도",
+    "relieve":"완화하다",
+    "exclaim":"소리치다"
+}
+33번
+{
+    "contradictiory":"모순된",
+    "premise":"전제",
+    "cumulative":"축적된"
+}
+34번
+{
+    "persist in":"~을 지속하다",
+    "confront":"직면하게 하다",
+    "in the presence of":"~의 앞에서"
+}
+35번
+{
+    "versus":"~과 대비하여",
+    "show off":"~을 과시하다",
+    "tkae into account":"~을 고려하다"
+}
+36번
+{
+    "populous":"다수의",
+    "criterion":"기준",
+    "offering":"제품"
+}
+37번
+{
+    "intermediate":"매개체",
+    "incentive":"동기",
+    "suggestive of":"~을 암시하는"
+}
+38번
+{
+    "application":"용도",
+    "suited":"적합한"
+}
+39번
+{
+    "dynamics":"역학",
+    "tribal":"부족의",
+    "solidify":"확고해지다"
+}
+40번
+{
+    "a range of":"다양한",
+    "package":"짜임새있게 담다",
+    "instantaneous":"순간적인"
+}

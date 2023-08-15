@@ -1,0 +1,5 @@
+{
+    "be likely to":"~할 가능성이 있는",
+    "figure out":"~을 알아내다",
+    "curse":"저주"
+}

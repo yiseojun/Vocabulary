@@ -1,0 +1,5 @@
+{
+    "persist in":"~을 지속하다",
+    "confront":"직면하게 하다",
+    "in the presence of":"~의 앞에서"
+}

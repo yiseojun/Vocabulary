@@ -1,0 +1,5 @@
+{
+    "lie in":"~에 있다",
+    "temperate":"온대의",
+    "density":"밀도"
+}

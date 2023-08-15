@@ -1,0 +1,5 @@
+{
+    "precussion":"두드려서 연주하기",
+    "aural":"청각적인",
+    "instinctive":"본능적인"
+}

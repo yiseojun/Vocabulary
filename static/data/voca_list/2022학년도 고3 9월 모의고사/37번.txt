@@ -1,0 +1,5 @@
+{
+    "intermediate":"매개체",
+    "incentive":"동기",
+    "suggestive of":"~을 암시하는"
+}

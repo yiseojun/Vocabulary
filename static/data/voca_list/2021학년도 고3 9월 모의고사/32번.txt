@@ -1,0 +1,6 @@
+{
+    "identical":"동일한",
+    "conversely":"반대로",
+    "property":"특성",
+    "harbor":"품다"
+}

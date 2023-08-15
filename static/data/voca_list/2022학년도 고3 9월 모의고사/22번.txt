@@ -1,0 +1,5 @@
+{
+    "grant":"주다",
+    "in proportion to":"~에 비례하여",
+    "irreversibly":"뒤집을 수 없게"
+}

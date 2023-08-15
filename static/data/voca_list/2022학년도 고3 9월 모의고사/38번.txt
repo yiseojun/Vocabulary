@@ -1,0 +1,4 @@
+{
+    "application":"용도",
+    "suited":"적합한"
+}

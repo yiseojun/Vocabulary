@@ -1,0 +1,6 @@
+{
+    "means":"수단",
+    "afresh":"새로",
+    "piece together":"~을 종합하다",
+    "ritualize":"의례화하다"
+}

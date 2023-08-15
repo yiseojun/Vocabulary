@@ -1,0 +1,5 @@
+{
+    "keen":"열중하는",
+    "prominent":"저명한",
+    "unappreciative":"인정하지 않는"
+}

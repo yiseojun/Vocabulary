@@ -1,0 +1,6 @@
+{
+    "be regarded as":"~으로 여겨지다",
+    "intergrate":"통합하다",
+    "unobtrusive":"눈에 띄지 않는", 
+    "emerging":"최근에 만들어진"
+}

@@ -1,0 +1,5 @@
+{
+    "competence":"능력",
+    "recollection":"회상",
+    "be compelled to":"~하도록 강요받다"
+}

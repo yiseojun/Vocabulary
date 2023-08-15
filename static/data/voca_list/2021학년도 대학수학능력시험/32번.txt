@@ -1,0 +1,5 @@
+{
+    "carrying capacity":"수용능력",
+    "in short supply":"공급이 부족한",
+    "solely":"오로지"
+}

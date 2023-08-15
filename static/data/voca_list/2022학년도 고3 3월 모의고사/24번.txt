@@ -1,0 +1,4 @@
+{
+    "inanimate":"무생물의",
+    "renowned":"유명한"
+}

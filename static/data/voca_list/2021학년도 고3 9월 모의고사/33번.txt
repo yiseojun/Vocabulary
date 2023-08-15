@@ -1,0 +1,5 @@
+{
+    "distortion":"왜곡",
+    "in respect of":"~에 관해서",
+    "ground A in B":"A의 기초를 B에 두다"
+}

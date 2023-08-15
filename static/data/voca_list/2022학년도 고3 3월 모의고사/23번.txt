@@ -1,0 +1,5 @@
+{
+    "evaluate":"평가하다",
+    "generalize":"일반화하다",
+    "reasoning":"추론"
+}

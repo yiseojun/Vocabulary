@@ -1,0 +1,5 @@
+{
+    "mode":"방식",
+    "stem from":"~에서 비롯되다",
+    "accumulation":"축적"
+}

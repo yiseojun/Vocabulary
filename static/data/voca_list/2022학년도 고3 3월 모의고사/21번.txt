@@ -1,0 +1,6 @@
+{
+    "synonymous":"동의어의",
+    "exemplar":"표본",
+    "be worthy of":"~의 가치가 있다",
+    "characterize":"특징짓다"
+}

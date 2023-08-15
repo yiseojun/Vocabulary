@@ -1,0 +1,5 @@
+{
+    "in the way oft":"~라고 할 말한 것이",
+    "engage in":"~을 참여하다",
+    "profile":"옆모습"
+}

@@ -1,0 +1,4 @@
+{
+	"reconstruct":"재구성하다",
+	"centered":"-중심의"
+}

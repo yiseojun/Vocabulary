@@ -1,0 +1,4 @@
+{
+    "integrate":"통합하다",
+    "exclusive":"상류의, 고급의"
+}

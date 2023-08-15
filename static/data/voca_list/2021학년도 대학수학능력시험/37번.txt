@@ -1,0 +1,5 @@
+{
+    "cost effective":"비용 효율이 높은",
+    "household":"가정",
+    "take ~ into account":"~을 고려하다"
+}

@@ -1,0 +1,6 @@
+{
+    "out of the loop":"상황을 잘 모르는",
+    "hyperconnected":"과잉연결된",
+    "periodically":"주기적으로",
+    "flick":"(스위치를)누르다"
+}

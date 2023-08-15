@@ -1,0 +1,5 @@
+{
+    "entitled to":"~할 자격이 있는",
+    "empathy":"공감",
+    "naive":"순진한"
+}

@@ -1,0 +1,6 @@
+{
+    "exclusively":"독점적으로",
+    "democratized":"민주화된",
+    "simultaneously":"동시에",
+    "laypeople":"비전문가"
+}

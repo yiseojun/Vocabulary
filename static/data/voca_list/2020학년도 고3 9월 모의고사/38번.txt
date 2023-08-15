@@ -1,0 +1,5 @@
+{
+    "mount":"고정하다",
+    "obstruction":"방해",
+    "prevailling":"우세한"
+}

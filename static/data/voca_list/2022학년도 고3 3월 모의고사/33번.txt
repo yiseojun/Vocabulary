@@ -1,0 +1,5 @@
+{
+    "psychic":"심적인",
+    "passive":"수동적인",
+    "accidental":"우연한"
+}

@@ -1,0 +1,5 @@
+{
+    "incentive":"유인책",
+    "take in":"이해하다",
+    "transitory":"일시적인"
+}

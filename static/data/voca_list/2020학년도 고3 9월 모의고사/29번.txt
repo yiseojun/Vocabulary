@@ -1,0 +1,6 @@
+{
+    "encompass":"망라하다, 포함하다",
+    "suggestive":"연상시키는",
+    "in rows":"줄지어",
+    "equivalent":"동등한"
+}

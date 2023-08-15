@@ -1,0 +1,4 @@
+{
+    "configuration":"배열",
+    "company":"동반"
+}

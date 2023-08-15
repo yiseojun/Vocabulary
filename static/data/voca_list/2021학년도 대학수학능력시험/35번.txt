@@ -1,0 +1,5 @@
+{
+    "reframe":"재구성하다",
+    "put ~ in perspective":"~을 제대로 이해하다",
+    "subservient":"도움이 되는"
+}

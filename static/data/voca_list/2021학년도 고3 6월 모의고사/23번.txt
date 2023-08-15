@@ -1,0 +1,5 @@
+{
+    "amount to":"~에 해당하다",
+    "codition":"결정하다",
+    "remediation":"교정"
+}

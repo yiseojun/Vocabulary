@@ -1,0 +1,5 @@
+{
+    "glorify":"미화하다",
+    "a quantity of":"많은",
+    "spark":"촉발하다"
+}

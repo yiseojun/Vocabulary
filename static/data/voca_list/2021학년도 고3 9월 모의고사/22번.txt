@@ -1,0 +1,4 @@
+{
+    "transmit":"전달하다",
+    "prejudice":"편견"
+}

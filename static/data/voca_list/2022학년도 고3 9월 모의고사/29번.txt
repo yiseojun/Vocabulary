@@ -1,0 +1,5 @@
+{
+    "pay off":"성공하다",
+    "correspond to":"~와 일치하다",
+    "mechanism":"기제, 매커니즘"
+}

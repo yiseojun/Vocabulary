@@ -1,0 +1,5 @@
+{
+    "favourable":"유리한",
+    "in favor of":"~을 선호하여",
+    "conservative":"보수적인"
+}

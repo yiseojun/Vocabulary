@@ -1,0 +1,5 @@
+{
+    "fatigue":"피로",
+    "interplay":"상호작용",
+    "in consistent with":"~과 일치하지 않는"
+}

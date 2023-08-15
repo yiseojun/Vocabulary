@@ -1,0 +1,6 @@
+{
+    "state":"말하다",
+    "indicate":"나타내다",
+    "hostility":"적개심",
+    "frown":"얼굴을 찡그리다"
+}

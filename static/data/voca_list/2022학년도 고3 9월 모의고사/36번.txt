@@ -1,0 +1,5 @@
+{
+    "populous":"다수의",
+    "criterion":"기준",
+    "offering":"제품"
+}

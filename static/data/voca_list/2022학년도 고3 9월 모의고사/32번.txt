@@ -1,0 +1,5 @@
+{
+    "supposedly":"아마도",
+    "relieve":"완화하다",
+    "exclaim":"소리치다"
+}

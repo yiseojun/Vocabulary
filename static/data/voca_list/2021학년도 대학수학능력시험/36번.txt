@@ -1,0 +1,5 @@
+{
+    "eventual":"궁극적인",
+    "transcend":"초월하다",
+    "confrontation":"대치"
+}

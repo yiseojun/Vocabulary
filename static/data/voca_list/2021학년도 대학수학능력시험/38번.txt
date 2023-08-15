@@ -1,0 +1,5 @@
+{
+    "given":"~을 고려할 때",
+    "disapprove of":"~을 못마땅해 하다",
+    "connotation":"함축"
+}

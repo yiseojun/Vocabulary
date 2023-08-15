@@ -1,0 +1,5 @@
+{
+    "commercialized":"상업화된",
+    "conversion":"전환",
+    "evolve":"진화하다"
+}

@@ -1,0 +1,6 @@
+{
+    "status quo":"현재 상태",
+    "exceptionally":"대단히",
+    "necessitate":"필요로 하다",
+    "wildly":"크게, 몹시"
+}

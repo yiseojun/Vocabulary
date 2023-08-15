@@ -1,0 +1,5 @@
+{
+    "notate":"악보에 적다",
+    "exceedingly":"매우",
+    "accompaniment":"반주"
+}

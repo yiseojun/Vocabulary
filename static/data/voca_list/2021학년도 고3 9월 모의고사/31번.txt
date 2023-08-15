@@ -1,0 +1,6 @@
+{
+    "strictly speaking":"엄밀히 말해서",
+    "covention":"관습",
+    "have little bearing on":"~과 거의 관계가 없다",
+    "might well":"아마 ~일 것이다"
+}

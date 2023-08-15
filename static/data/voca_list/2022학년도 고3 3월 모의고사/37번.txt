@@ -1,0 +1,5 @@
+{
+    "boundary":"경계",
+    "differentiate":"차별화하다",
+    "netualize":"중화하다"
+}

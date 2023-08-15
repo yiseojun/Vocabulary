@@ -1,0 +1,4 @@
+{
+    "utility":"공익사업",
+    "responsive to":"~에 반응하여"
+}

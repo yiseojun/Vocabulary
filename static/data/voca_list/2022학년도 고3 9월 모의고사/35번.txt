@@ -1,0 +1,5 @@
+{
+    "versus":"~과 대비하여",
+    "show off":"~을 과시하다",
+    "tkae into account":"~을 고려하다"
+}

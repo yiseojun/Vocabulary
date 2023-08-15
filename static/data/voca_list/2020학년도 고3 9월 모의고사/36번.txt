@@ -1,0 +1,5 @@
+{
+    "surplus":"잉여물",
+    "come out ahead":"결국 이득을 보다",
+    "in return":"대가로"
+}

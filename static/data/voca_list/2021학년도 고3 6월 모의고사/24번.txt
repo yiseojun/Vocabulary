@@ -1,0 +1,4 @@
+{
+    "prime mover":"원동력",
+    "absence":"부재"
+}

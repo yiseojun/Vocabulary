@@ -1,0 +1,6 @@
+{
+    "unknowingly":"자신도 모르게",
+    "lest":"~하지 않도록",
+    "withhold":"억제하다",
+    "resentment":"분개"
+}

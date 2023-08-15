@@ -36,4 +36,4 @@ def start_exam(exam, number) :
     return render_template("exam.html", path=f"/static/data/voca_list/{ exam }/{ number }.txt", adress = f"/단어시험/{ exam }")
 
 if __name__ == "__main__" :
-    app.run(host='0.0.0.0', debug=True)
+    app.run(host='0.0.0.0', port=8000, debug=True)

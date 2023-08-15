@@ -1,0 +1,6 @@
+{
+    "mediate":"전달하다",
+    "all too":"너무나",
+    "multifaceted":"다면적인",
+    "understate":"축소해서 말하다"
+}

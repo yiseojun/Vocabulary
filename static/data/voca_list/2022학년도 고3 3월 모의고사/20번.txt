@@ -1,0 +1,4 @@
+{
+    "ethical":"윤리적인",
+    "disrespectful":"철저한"
+}

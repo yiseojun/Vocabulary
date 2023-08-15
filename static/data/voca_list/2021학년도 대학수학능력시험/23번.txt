@@ -1,0 +1,6 @@
+{
+    "arise":"생기다",
+    "assign":"배정하다",
+    "precision":"정밀도",
+    "collaborative":"협업의"
+}

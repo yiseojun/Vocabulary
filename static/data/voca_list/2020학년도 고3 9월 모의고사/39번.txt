@@ -1,0 +1,5 @@
+{
+    "itemize":"항목화하다",
+    "in favor of":"~을 선호하여",
+    "appeal to":"~의 호응을 얻다"
+}

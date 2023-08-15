@@ -1,0 +1,5 @@
+{
+    "superstitous":"미신적인",
+    "invalid":"무효한",
+    "dismiss":"묵살하다"
+}

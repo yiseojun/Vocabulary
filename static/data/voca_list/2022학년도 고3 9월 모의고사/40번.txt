@@ -1,0 +1,5 @@
+{
+    "a range of":"다양한",
+    "package":"짜임새있게 담다",
+    "instantaneous":"순간적인"
+}

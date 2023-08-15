@@ -1,0 +1,8 @@
+{
+    "redistribution":"재분포",
+    "complex":"건물 단지, 복합 건물",
+    "governance":"관리",
+    "consistent":"일치하는",
+    "intelligible":"쉽게 이해할 수 있는",
+    "literate":"글을 읽고 쓸 줄 아는"
+}

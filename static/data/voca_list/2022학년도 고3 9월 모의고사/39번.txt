@@ -1,0 +1,5 @@
+{
+    "dynamics":"역학",
+    "tribal":"부족의",
+    "solidify":"확고해지다"
+}

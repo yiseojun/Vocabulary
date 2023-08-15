@@ -1,0 +1,6 @@
+{
+    "run out of":"~이 떨어지다",
+    "go around":"몫이 돌아가다",
+    "make up":"~을 구성하다",
+    "handout":"유인물"
+}

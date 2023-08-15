@@ -1,0 +1,6 @@
+{
+    "challenge":"이의를 제기하다",
+    "soak up":"~을 흡수하다",
+    "yielding":"물렁한",
+    "contrary to":"~와 반대로"
+}

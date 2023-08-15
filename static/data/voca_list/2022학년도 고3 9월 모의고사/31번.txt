@@ -1,0 +1,5 @@
+{
+    "describe":"서술하다, ~이라고 말하다",
+    "inference":"추론",
+    "recognize":"인식하다"
+}

@@ -1,0 +1,6 @@
+{
+    "sidstep":"피하다",
+    "persumably":"짐작건대",
+    "hazard":"위험",
+    "atypical":"이례적인"
+}
