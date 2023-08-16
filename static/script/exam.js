@@ -1,5 +1,6 @@
 const inputField = document.getElementById("input-word");
 const displayWord = document.getElementById("word");
+const progress = document.getElementById("progress");
 let count = 0;
 
 class currentWord {
@@ -13,7 +14,10 @@ class currentWord {
 
     static async loadData() {
         const destinationWord = await currentWord.getDestination();
+        const wordLength = destinationWord.length;
+        
         displayWord.innerHTML = destinationWord[0];
+        progress.innerHTML = `1 / ${wordLength}`;
     }
 
     static async getDeparture() {
@@ -54,16 +58,18 @@ class cssAnimation {
 async function isCorrectWord() {
     const departureWord = await currentWord.getDeparture();
     const destinationWord = await currentWord.getDestination();
+    const wordLength = departureWord.length
 
     if (inputField.value === departureWord[count]) {
         cssAnimation.changeBorderColor("#28886D", 1000);
         count++;
         inputField.value = "";
-
+        
         if (departureWord[count] === undefined) {
             displayWord.innerHTML = "모든 단어를 학습했습니다!";
         } else {
             displayWord.innerHTML = `${destinationWord[count]}`;
+            progress.innerHTML = `${count + 1} / ${wordLength}`;
         }
     } else {
         cssAnimation.startShakeAnimation();

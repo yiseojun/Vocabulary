@@ -12,7 +12,8 @@
   
     const eng = Object.keys(vocaData);
     const kor = Object.values(vocaData);
-  
+    const progress = document.getElementById("progress");
+
     // Wrap around the index if it goes out of bounds
     newCount = ((newCount % eng.length) + eng.length) % eng.length;
     count = newCount;
@@ -21,6 +22,7 @@
     //let newText = kor[count];
   
     // 업데이트만 진행
+    progress.innerHTML = `${count + 1} / ${eng.length}`
     document.getElementById("word").innerHTML = originalText;
   }
   
