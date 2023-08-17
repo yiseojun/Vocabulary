@@ -43,6 +43,21 @@ class scanFile :
         
         return txt_files[:-1]
 
+class makeTable :
+    def readFile() :
+        with open("./static/data/voca_list/Frequent.txt", 'r', encoding = "utf-8") as file :
+            content = eval(file.read())
+
+        return content
+    
+    def makeHTML() :
+        wordDict = makeTable.readFile()
+        htmlCode = ""
+
+        for word in wordDict.keys() :
+            htmlCode += f"<tr>\n<td>{word}</td>\n<td>{wordDict[word]}</td>\n</tr>\n"
+
+        return htmlCode[:-1]
 
 if __name__ == "__main__" :
-    print(scanFile("2023년도 3월 모의고사"))
+    print(makeTable.makeHTML())

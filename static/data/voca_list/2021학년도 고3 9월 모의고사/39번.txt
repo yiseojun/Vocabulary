@@ -1,5 +1,5 @@
 {
     "vaguely":"어렴풋이",
     "descriptive":"기술적인",
-    "prescriptive":’규범적인"
+    "prescriptive":"규범적인"
 }

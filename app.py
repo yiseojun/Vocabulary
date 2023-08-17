@@ -33,7 +33,11 @@ def examList(exam) :
 
 @app.route("/단어시험/<exam>/<number>")
 def start_exam(exam, number) :
-    return render_template("exam.html", path=f"/static/data/voca_list/{ exam }/{ number }.txt", adress = f"/단어시험/{ exam }")
+    return render_template("exam.html", path = f"/static/data/voca_list/{ exam }/{ number }.txt", adress = f"/단어시험/{ exam }")
+
+@app.route("/빈출단어")
+def frequent() :
+    return render_template("WordBoard.html", table = makeTable.makeHTML())    
 
 if __name__ == "__main__" :
     app.run(host='0.0.0.0', port=8000, debug=True)

@@ -1,5 +1,5 @@
 {
     "induce":"유도하다",
     "insofar as":"~하는 한",
-    "indefinable:"규정할 수 없는"
+    "indefinable":"규정할 수 없는"
 }

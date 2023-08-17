@@ -1,5 +1,5 @@
 {
     "conform to":"~에 순응하다",
-    "stylistic:"양식의",
+    "stylistic":"양식의",
     "linear":"선형의"
 }

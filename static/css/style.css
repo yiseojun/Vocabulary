@@ -122,3 +122,31 @@ input:focus {
     animation-duration: 0.5s;
     display: inline-flex;
   }
+  
+  table {
+    border: 0px solid #000000; /* 굵기와 색상을 설정 */
+    border-collapse: collapse;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    background-color: white; /* 전체 배경색을 화이트로 지정 */
+  }
+  
+  th {
+    background-color: #28886D;
+    padding: 10px;
+    text-align: center;
+    border: 0px solid #28886D;
+    color: white;
+  }
+  
+  td {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-block: 25px;
+    font-weight: 600;
+    background-color: #EAE8ED;
+    text-align: center;
+    border: 0px solid rgb(255, 255, 255);
+  }
