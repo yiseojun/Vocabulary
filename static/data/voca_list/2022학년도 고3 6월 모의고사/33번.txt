@@ -1,0 +1,5 @@
+{
+    "strike ~ as ...":"~에게 ...이라는 인상을 주다",
+    "wilderness":"황야",
+    "independent of":"~와 무관하게"
+}

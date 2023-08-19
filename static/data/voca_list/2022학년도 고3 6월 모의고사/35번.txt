@@ -1,0 +1,5 @@
+{
+    "kindship":"친족",
+    "rest on":"~에 기초하다",
+    "geographical":"지리적인"
+}

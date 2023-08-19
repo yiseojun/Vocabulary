@@ -1,0 +1,5 @@
+{
+    "notation":"악보 표기법",
+    "downside":"단점",
+    "discourage":"억제하다"
+}

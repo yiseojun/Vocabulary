@@ -1,0 +1,6 @@
+{
+    "presentational":"관념의",
+    "tension":"긴장",
+    "stick to":"~을 고수하다",
+    "unwilling to do":"싫어하는"
+}

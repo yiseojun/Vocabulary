@@ -1,0 +1,5 @@
+{
+    "adress":"다루다",
+    "workable":"실행 가능한",
+    "flawlessly":"완전하게"
+}

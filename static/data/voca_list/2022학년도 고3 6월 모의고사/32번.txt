@@ -1,0 +1,5 @@
+{
+    "engage in":"~에 참여하다",
+    "counsel against":"~을 하지 말라고 충고하다",
+    "excessively":"과도하게"
+}

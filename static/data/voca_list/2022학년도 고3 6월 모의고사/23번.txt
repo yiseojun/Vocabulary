@@ -1,0 +1,5 @@
+{
+    "identify with":"~와 동일시하다",
+    "metaphorical":"은유적인",
+    "try out":"~을 시도하다"
+}

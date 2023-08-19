@@ -1,0 +1,5 @@
+{
+    "except for":"~을 제외하고는",
+    "assemble":"조립하다, 모으다"
+    "differentiate":"분화하다"
+}

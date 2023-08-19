@@ -1,0 +1,5 @@
+{
+    "on cue":"신호에 따라",
+    "discriminate":"구별하다",
+    "arousal":"자극"
+}

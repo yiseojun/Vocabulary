@@ -1,0 +1,4 @@
+{
+    "critique":"비판하다",
+    "popularzation":"대중화"
+}

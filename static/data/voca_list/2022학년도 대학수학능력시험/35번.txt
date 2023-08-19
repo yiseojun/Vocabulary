@@ -1,0 +1,5 @@
+{
+    "introduction":"도입",
+    "cut off":"자르다",
+    "crucial":"중대한"
+}

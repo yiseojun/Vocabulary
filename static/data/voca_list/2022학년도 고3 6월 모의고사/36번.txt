@@ -1,0 +1,5 @@
+{
+    "paradigm":"전형적인 예, 패러다임",
+    "remarkable":"주목할 만한",
+    "reference point":"기준점"
+}

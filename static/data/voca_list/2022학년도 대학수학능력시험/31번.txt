@@ -1,0 +1,5 @@
+{
+    "disengagement":"자유",
+    "make A up":"(이야기를)지어내다",
+    "alternative":"대안이 되는"
+}

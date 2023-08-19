@@ -1,0 +1,5 @@
+{
+    "in spite of":"~에도 불구하고",
+    "relevance":"적절",
+    "consciouness":"자각"
+}

@@ -1,0 +1,5 @@
+{
+    "meet":"처리하다",
+    "once and for all time":"단번에 모두",
+    "eliminate":"제거하다"
+}

@@ -1,0 +1,5 @@
+{
+    "addressed to":"~에 초점을 맞춘",
+    "subsequently":"그 후로",
+    "lordly":"귀족의"
+}

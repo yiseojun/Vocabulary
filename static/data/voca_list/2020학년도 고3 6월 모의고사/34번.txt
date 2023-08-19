@@ -1,0 +1,5 @@
+{
+    "aspiraional":"염원하는",
+    "suffice":"충분하다",
+    "invoke~as...":"~을 ...라고 들먹이다"
+}

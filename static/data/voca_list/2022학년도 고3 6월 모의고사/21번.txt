@@ -1,0 +1,6 @@
+{
+    "switch to":"~로 전환하다",
+    "block off":"~을 차단하다",
+    "go against the grain of":"~에 맞지 않다",
+    "by definition":"당연히"
+}

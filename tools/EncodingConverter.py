@@ -10,7 +10,7 @@ def convert_encoding(file_name) :
     with codecs.open(file_name, 'w', encoding='utf-8') as file_out:
         file_out.write(file_content)
 
-path = r"C:\Users\Computer\Documents\repo\vcblry\static\data\voca_list"
+path = r".\static\data\voca_list"
 folder_list = os.listdir(path)
 
 print(f"folderlist: {folder_list}")
@@ -20,4 +20,11 @@ for folder_name in folder_list :
     print("filelist:", file_list)
     
     for file_name in file_list :
-        convert_encoding(f"{path}\\{folder_name}\\{file_name}")
+        try :
+            convert_encoding(f"{path}\\{folder_name}\\{file_name}")
+
+        except UnicodeDecodeError :
+            break
+
+        except NotADirectoryError:
+            break

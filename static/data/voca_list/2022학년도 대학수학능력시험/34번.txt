@@ -1,0 +1,5 @@
+{
+    "precision":"정확",
+    "put a premium on":"~을 장려하다",
+    "proliferation":"증식"
+}

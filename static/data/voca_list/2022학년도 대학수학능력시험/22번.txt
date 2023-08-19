@@ -1,0 +1,5 @@
+{
+    "along with":"~와 함께",
+    "exposure":"노출",
+    "have no choice but to do":"~할 수 밖에 없다"
+}

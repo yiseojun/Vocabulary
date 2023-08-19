@@ -1,0 +1,5 @@
+{
+    "identify":"찾다,
+    "let down":"~을 실망시키다",
+    "deceit":"속임수"
+}

@@ -1,0 +1,5 @@
+{
+    "repertoire":"목록",
+    "boundary":"경계",
+    "locality":"장소"
+}

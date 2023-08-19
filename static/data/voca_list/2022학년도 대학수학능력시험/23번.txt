@@ -1,0 +1,5 @@
+{
+    "procedure":"절차",
+    "in ways that":"~하는 방식으로",
+    "indeed":"사실상"
+}

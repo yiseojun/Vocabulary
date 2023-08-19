@@ -1,0 +1,5 @@
+{
+    "lay off":"해고하다",
+    "rather than":"~대신에",
+    "It may be that":"~일지도 모른다"
+}

@@ -1,0 +1,5 @@
+{
+    "capable of doing":"할 수 있는",
+    "subsume":"포괄하다",
+    "empirical":"경험에 의한"
+}

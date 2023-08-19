@@ -1,0 +1,5 @@
+{
+    "bring about":"~을 유발하다",
+    "institutional":"제도상의",
+    "give A access to":"A에게 ~할 권한을 주다"
+}

@@ -1,0 +1,5 @@
+{
+    "bring forth":"~을 일으키다",
+    "border on":"~에 아주 가깝다",
+    "obsession":"집착"
+}

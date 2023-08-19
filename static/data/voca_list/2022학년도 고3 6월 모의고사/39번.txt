@@ -1,0 +1,5 @@
+{
+    "adaptive":"적응성의",
+    "pressing":"긴급한",
+    "implication":"암시, 함의"
+}

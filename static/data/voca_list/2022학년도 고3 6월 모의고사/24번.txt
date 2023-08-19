@@ -1,0 +1,4 @@
+{
+    "attend to":"~을 주목하다",
+    "prioritize":"우선시하다"
+}

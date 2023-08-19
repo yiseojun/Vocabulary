@@ -1,0 +1,5 @@
+{
+    "ancestor":"조상",
+    "shell":"겉모습",
+    "fabulous":"엄청난"
+}

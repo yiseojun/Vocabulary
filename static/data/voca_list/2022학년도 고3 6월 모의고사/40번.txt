@@ -1,0 +1,5 @@
+{
+    "premanence":"영속성",
+    "testimony":"증언",
+    "invent":"고안하다"
+}

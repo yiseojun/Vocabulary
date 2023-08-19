@@ -1,0 +1,5 @@
+{
+    "pursuit":"추구하다",
+    "cutting-edge":"최첨단의",
+    "mere":"한낱, 단지"
+}

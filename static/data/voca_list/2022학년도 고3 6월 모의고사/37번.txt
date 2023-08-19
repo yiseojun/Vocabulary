@@ -1,0 +1,5 @@
+{
+    "figure":"생각하다",
+    "boil down to":"결국 ~이 되다",
+    "venture":"모험"
+}

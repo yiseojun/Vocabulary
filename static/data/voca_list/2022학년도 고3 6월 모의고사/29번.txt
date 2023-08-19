@@ -1,0 +1,5 @@
+{
+    "passage":"흐름",
+    "immediate":"눈앞에 있는",
+    "astronomy":"천문학"
+}

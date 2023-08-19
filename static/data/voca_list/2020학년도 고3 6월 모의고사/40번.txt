@@ -1,0 +1,4 @@
+{
+    "abreast with":"~와 보조를 맞추는",
+    "public relations":"홍보"
+}

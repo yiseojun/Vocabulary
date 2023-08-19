@@ -1,0 +1,6 @@
+{
+    "pad":"채워넣다",
+    "get a glimpse of":"~을 언뜻보다",
+    "compelling":"강렬한",
+    "contentment":"만족"
+}

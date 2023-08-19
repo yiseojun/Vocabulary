@@ -1,0 +1,5 @@
+{
+    "take A for":"A를 ~이라고 생각하다",
+    "come into play":"활동하게 되다",
+    "concide":"동시에 일어나다"
+}
